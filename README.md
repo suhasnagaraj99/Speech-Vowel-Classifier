@@ -65,7 +65,7 @@ Hillenbrand/
   pip install -r requirements.txt
   ```
 - **Check Directory Structure**
-  - Ensure you have the Hillenbrand/ directory (with subdirectories: men/, women/, children/) containing .wav files for the vowels you want to classify.
+  - Ensure you have the unzipped Hillenbrand/ directory (with subdirectories: men/, women/, children/) containing .wav files for the vowels you want to classify.
 
 ---
 
