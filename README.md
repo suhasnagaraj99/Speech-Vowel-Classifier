@@ -117,3 +117,8 @@ python logreg_pytorch.py \
 - Thanks to UMD for the continued support and resources.
 - Special thanks to the open-source community (PyTorch, librosa, etc.) for tools enabling this project.
 
+## Attribution
+The original problems were provided as part of the course:
+- Course: Natural Language Processing [CL1-HW](https://github.com/Pinafore/cl1-hw)
+- License: CC-BY 4.0 [Link](https://creativecommons.org/licenses/by/4.0/legalcode)
+
